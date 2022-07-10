@@ -2,8 +2,8 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/hexa?useSSL=false&useUnicode=true&serverTimezone=Asia/Seoul
     driver-class-name: com.mysql.jdbc.Driver
-    username: root
-    password: a03290907!
+    username:
+    password:
   jpa:
     show-sql: true
     hibernate:
